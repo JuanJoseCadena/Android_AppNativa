@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App Nativa</string>
+    <string name="a1text">Bienvenido, Por Favor Espera</string>
+    <string name="formtitle">Por favor, ingrese sus datos</string>
+    <string name="searchtitle">Ingrese una dirección web</string>
+    <string name="menu">Menú Principal</string>
+    <string name="namep">Programa</string>
+    <string name="namea">Asignatura</string>
+    <string name="namei">Integrante</string>
+    <string name="sem">Semestre</string>
+    <string name="year">Año</string>
+    <string name="named">Docente</string>
+    <string name="blank">-</string>
+    <string name="sbmbtn">Enviar</string>
+    <string name="webhint">Ingrese la dirección URL</string>
+    <string name="searchbtn">Buscar</string>
+</resources>
